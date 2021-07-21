@@ -1,3 +1,7 @@
+/* 
+Attempt to declare all variables at start of program for code readability
+*/
+
 // variable to store correct answers, when quiz begins there are no correct answers
 // declare a number here so it doesn't store as a string
 let correct = 0;
